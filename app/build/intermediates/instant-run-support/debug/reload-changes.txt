@@ -1,0 +1,3 @@
+CHANGED,F:\PAS\Projects\Navigators\Paleman2.0\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\PAS\Projects\Navigators\Paleman2.0\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\de\derandroidpro\navdrawer_tutorial\MainActivity$override.class
+CHANGED,F:\PAS\Projects\Navigators\Paleman2.0\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\de\derandroidpro\navdrawer_tutorial\MainActivity$1$override.class
